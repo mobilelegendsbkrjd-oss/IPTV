@@ -1,0 +1,294 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8UDlqNM.png",Conecta TV
+https://edge1.spinoff.link/stream/ConectaTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vo5qJOs.jpeg",Mundo de la Musica TV
+https://edge1.spinoff.link/stream/MundoMusica/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p0ZvnhM.jpeg",Recuerdos Retro Radio TV
+https://edge1.spinoff.link/stream/RecuerdosRadio/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Krp7wzR.jpeg",Suyai TV | CL
+https://edge1.spinoff.link/stream/SuyaiTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.adn40.mx/imagenes/logo-adn40_color.png",ADN 40
+https://edge1.spinoff.link/stream/ADN40/index.m3u8
+#EXTINF:-1 tvg-logo="",Canal 10 Chiapas
+https://edge1.spinoff.link/stream/Canal10Chiapas/index.m3u8
+#EXTINF:-1 tvg-logo="",Canal 12.1 Colima
+https://edge1.spinoff.link/stream/Canal12Colima/index.m3u8
+#EXTINF:-1 tvg-logo="",Canal 15 Fresnillo
+https://edge1.spinoff.link/stream/Canal15Fresnillo/index.m3u8
+#EXTINF:-1 tvg-logo="",Canal 28 Nuevo Leon
+https://edge1.spinoff.link/stream/Canal28NuevoLeon/index.m3u8
+#EXTINF:-1 tvg-logo="",Canal 4 Saltillo
+https://edge1.spinoff.link/stream/Canal4Saltillo/index.m3u8
+#EXTINF:-1 tvg-logo="",Canal Once Mexico
+https://edge1.spinoff.link/stream/CanalOnceMexico/index.m3u8
+#EXTINF:-1 tvg-logo="",Canal Once Nacional
+https://edge1.spinoff.link/stream/CanalOnceNacional/index.m3u8
+#EXTINF:-1 tvg-logo="",Central FM
+https://edge1.spinoff.link/stream/CentralFM/index.m3u8
+#EXTINF:-1 tvg-logo="",Genesis TV
+https://edge1.spinoff.link/stream/GenesisTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Impactovision
+https://edge1.spinoff.link/stream/Impactovision/index.m3u8
+#EXTINF:-1 tvg-logo="",Jalisco TV
+https://edge1.spinoff.link/stream/JaliscoTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Mexiquense TV
+https://edge1.spinoff.link/stream/MexiquenseTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Multimedios CDMX
+https://edge1.spinoff.link/stream/MultimediosCDMX/index.m3u8
+#EXTINF:-1 tvg-logo="",Multimedios Guadalajara
+https://edge1.spinoff.link/stream/MultimediosGDL/index.m3u8
+#EXTINF:-1 tvg-logo="",Multimedios Laguna
+https://edge1.spinoff.link/stream/MultimediosLaguna/index.m3u8
+#EXTINF:-1 tvg-logo="",Multimedios Monterrey
+https://edge1.spinoff.link/stream/MultimediosMTY/index.m3u8
+#EXTINF:-1 tvg-logo="",MVM Noticias Oaxaca
+https://edge1.spinoff.link/stream/MVMNoticiasOaxaca/index.m3u8
+#EXTINF:-1 tvg-logo="",Presumiendo Mexico
+https://edge1.spinoff.link/stream/PresumiendoMexico/index.m3u8
+#EXTINF:-1 tvg-logo="",RCG 1 Saltillo
+https://edge1.spinoff.link/stream/RCG1Saltillo/index.m3u8
+#EXTINF:-1 tvg-logo="",RCG 2 Saltillo
+https://edge1.spinoff.link/stream/RCG2Saltillo/index.m3u8
+#EXTINF:-1 tvg-logo="",RCG 3 Saltillo
+https://edge1.spinoff.link/stream/RCG3Saltillo/index.m3u8
+#EXTINF:-1 tvg-logo="",RTQ Queretaro
+https://edge1.spinoff.link/stream/RTQQueretaro/index.m3u8
+#EXTINF:-1 tvg-logo="",SIZART Canal 24 Zacatecas
+https://edge1.spinoff.link/stream/SIZART/index.m3u8
+#EXTINF:-1 tvg-logo="",Telemax Hermosillo
+https://edge1.spinoff.link/stream/TelemaxHermosillo/index.m3u8
+#EXTINF:-1 tvg-logo="",Teleplay
+https://edge1.spinoff.link/stream/Teleplay/index.m3u8
+#EXTINF:-1 tvg-logo="",Teleritmo
+https://edge1.spinoff.link/stream/Teleritmo/index.m3u8
+#EXTINF:-1 tvg-logo="",Tempus Stream
+https://edge1.spinoff.link/stream/TempusStream/index.m3u8
+#EXTINF:-1 tvg-logo="",Tlaxcala TV
+https://edge1.spinoff.link/stream/TlaxcalaTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Transmedia TV Morelia
+https://edge1.spinoff.link/stream/TransmediaTVMorelia/index.m3u8
+#EXTINF:-1 tvg-logo="",TRC TV Campeche
+https://edge1.spinoff.link/stream/TRCTV/index.m3u8
+#EXTINF:-1 tvg-logo="",TV4 Cultura
+https://edge1.spinoff.link/stream/TV4Cultura/index.m3u8
+#EXTINF:-1 tvg-logo="",TV4 Deportes
+https://edge1.spinoff.link/stream/TV4Deportes/index.m3u8
+#EXTINF:-1 tvg-logo="",TV4 Noticias
+https://edge1.spinoff.link/stream/TV4Noticias/index.m3u8
+#EXTINF:-1 tvg-logo="",TVP Culiacan
+https://edge1.spinoff.link/stream/TVPCuliacan/index.m3u8
+#EXTINF:-1 tvg-logo="",TVP Los Mochis
+https://edge1.spinoff.link/stream/TVPLosMochis/index.m3u8
+#EXTINF:-1 tvg-logo="",TVP Mazatlan
+https://edge1.spinoff.link/stream/TVPMazatlan/index.m3u8
+#EXTINF:-1 tvg-logo="",TVP Obregon
+https://edge1.spinoff.link/stream/TVPObregon/index.m3u8
+#EXTINF:-1 tvg-logo="",C5N
+https://edge1.spinoff.link/stream/C5N/index.m3u8
+#EXTINF:-1 tvg-logo="",Canal 26
+https://edge1.spinoff.link/stream/Canal26/index.m3u8
+#EXTINF:-1 tvg-logo="",Canal 9
+https://edge1.spinoff.link/stream/Canal9/index.m3u8
+#EXTINF:-1 tvg-logo="",El Trece
+https://edge1.spinoff.link/stream/ElTrece/index.m3u8
+#EXTINF:-1 tvg-logo="",Encuentro
+https://edge1.spinoff.link/stream/Encuentro/index.m3u8
+#EXTINF:-1 tvg-logo="",La Nación
+https://edge1.spinoff.link/stream/LaNacion/index.m3u8
+#EXTINF:-1 tvg-logo="",LN+
+https://edge1.spinoff.link/stream/LNMas/index.m3u8
+#EXTINF:-1 tvg-logo="",Net TV
+https://edge1.spinoff.link/stream/NetTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Paka Paka
+https://edge1.spinoff.link/stream/PakaPaka/index.m3u8
+#EXTINF:-1 tvg-logo="",Telefe
+https://edge1.spinoff.link/stream/Telefe/index.m3u8
+#EXTINF:-1 tvg-logo="",TN
+https://edge1.spinoff.link/stream/TN/index.m3u8
+#EXTINF:-1 tvg-logo="",TV Pública
+https://edge1.spinoff.link/stream/TVPublica/index.m3u8
+#EXTINF:-1 tvg-logo="",Volver
+https://edge1.spinoff.link/stream/Volver/index.m3u8
+#EXTINF:-1 tvg-logo="",ATB
+https://edge1.spinoff.link/stream/ATB/index.m3u8
+#EXTINF:-1 tvg-logo="",Bolivia TV
+https://edge1.spinoff.link/stream/BoliviaTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Cadena A
+https://edge1.spinoff.link/stream/CadenaA/index.m3u8
+#EXTINF:-1 tvg-logo="",Canal 7
+https://edge1.spinoff.link/stream/Canal7Bolivia/index.m3u8
+#EXTINF:-1 tvg-logo="",Cristal
+https://edge1.spinoff.link/stream/Cristal/index.m3u8
+#EXTINF:-1 tvg-logo="",Gigavision
+https://edge1.spinoff.link/stream/Gigavision/index.m3u8
+#EXTINF:-1 tvg-logo="",PAT
+https://edge1.spinoff.link/stream/PAT/index.m3u8
+#EXTINF:-1 tvg-logo="",Red Uno
+https://edge1.spinoff.link/stream/RedUno/index.m3u8
+#EXTINF:-1 tvg-logo="",RTP
+https://edge1.spinoff.link/stream/RTPBolivia/index.m3u8
+#EXTINF:-1 tvg-logo="",TV Universitaria
+https://edge1.spinoff.link/stream/TVUniversitaria/index.m3u8
+#EXTINF:-1 tvg-logo="",Unitel
+https://edge1.spinoff.link/stream/Unitel/index.m3u8
+#EXTINF:-1 tvg-logo="",Band
+https://edge1.spinoff.link/stream/Band/index.m3u8
+#EXTINF:-1 tvg-logo="",Band News
+https://edge1.spinoff.link/stream/BandNews/index.m3u8
+#EXTINF:-1 tvg-logo="",Canal Rural
+https://edge1.spinoff.link/stream/CanalRural/index.m3u8
+#EXTINF:-1 tvg-logo="",Cultura
+https://edge1.spinoff.link/stream/Cultura/index.m3u8
+#EXTINF:-1 tvg-logo="",Globo
+https://edge1.spinoff.link/stream/Globo/index.m3u8
+#EXTINF:-1 tvg-logo="",Globo News
+https://edge1.spinoff.link/stream/GloboNews/index.m3u8
+#EXTINF:-1 tvg-logo="",Record
+https://edge1.spinoff.link/stream/Record/index.m3u8
+#EXTINF:-1 tvg-logo="",Record News
+https://edge1.spinoff.link/stream/RecordNews/index.m3u8
+#EXTINF:-1 tvg-logo="",SBT
+https://edge1.spinoff.link/stream/SBT/index.m3u8
+#EXTINF:-1 tvg-logo="",TV Brasil
+https://edge1.spinoff.link/stream/TVBrasil/index.m3u8
+#EXTINF:-1 tvg-logo="",TV Gazeta
+https://edge1.spinoff.link/stream/TVGazeta/index.m3u8
+#EXTINF:-1 tvg-logo="",TV Justiça
+https://edge1.spinoff.link/stream/TVJustica/index.m3u8
+#EXTINF:-1 tvg-logo="",TV Senado
+https://edge1.spinoff.link/stream/TVSenado/index.m3u8
+#EXTINF:-1 tvg-logo="",13 C
+https://edge1.spinoff.link/stream/13C/index.m3u8
+#EXTINF:-1 tvg-logo="",Canal 13
+https://edge1.spinoff.link/stream/Canal13/index.m3u8
+#EXTINF:-1 tvg-logo="",CDO
+https://edge1.spinoff.link/stream/CDO/index.m3u8
+#EXTINF:-1 tvg-logo="",CHV
+https://edge1.spinoff.link/stream/CHV/index.m3u8
+#EXTINF:-1 tvg-logo="",CNN Chile
+https://edge1.spinoff.link/stream/CNNChile/index.m3u8
+#EXTINF:-1 tvg-logo="",Mega
+https://edge1.spinoff.link/stream/Mega/index.m3u8
+#EXTINF:-1 tvg-logo="",TVN
+https://edge1.spinoff.link/stream/TVN/index.m3u8
+#EXTINF:-1 tvg-logo="",TV Senado
+https://edge1.spinoff.link/stream/TVSenadoChile/index.m3u8
+#EXTINF:-1 tvg-logo="",UCTV
+https://edge1.spinoff.link/stream/UCTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Vía X
+https://edge1.spinoff.link/stream/ViaX/index.m3u8
+#EXTINF:-1 tvg-logo="",Cablenoticias
+https://edge1.spinoff.link/stream/Cablenoticias/index.m3u8
+#EXTINF:-1 tvg-logo="",Canal 1
+https://edge1.spinoff.link/stream/Canal1/index.m3u8
+#EXTINF:-1 tvg-logo="",Caracol
+https://edge1.spinoff.link/stream/Caracol/index.m3u8
+#EXTINF:-1 tvg-logo="",Caracol Internacional
+https://edge1.spinoff.link/stream/CaracolInternacional/index.m3u8
+#EXTINF:-1 tvg-logo="",Citytv
+https://edge1.spinoff.link/stream/Citytv/index.m3u8
+#EXTINF:-1 tvg-logo="",NTN24
+https://edge1.spinoff.link/stream/NTN24/index.m3u8
+#EXTINF:-1 tvg-logo="",RCN
+https://edge1.spinoff.link/stream/RCN/index.m3u8
+#EXTINF:-1 tvg-logo="",RCN Internacional
+https://edge1.spinoff.link/stream/RCNInternacional/index.m3u8
+#EXTINF:-1 tvg-logo="",Señal Colombia
+https://edge1.spinoff.link/stream/SenalColombia/index.m3u8
+#EXTINF:-1 tvg-logo="",Teleantioquia
+https://edge1.spinoff.link/stream/Teleantioquia/index.m3u8
+#EXTINF:-1 tvg-logo="",Telecaribe
+https://edge1.spinoff.link/stream/Telecaribe/index.m3u8
+#EXTINF:-1 tvg-logo="",Telepacífico
+https://edge1.spinoff.link/stream/Telepacifico/index.m3u8
+#EXTINF:-1 tvg-logo="",TRO
+https://edge1.spinoff.link/stream/TRO/index.m3u8
+#EXTINF:-1 tvg-logo="",Canal 6
+https://edge1.spinoff.link/stream/Canal6/index.m3u8
+#EXTINF:-1 tvg-logo="",Canal 7
+https://edge1.spinoff.link/stream/Canal7CR/index.m3u8
+#EXTINF:-1 tvg-logo="",Canal 13
+https://edge1.spinoff.link/stream/Canal13CR/index.m3u8
+#EXTINF:-1 tvg-logo="",Colosal
+https://edge1.spinoff.link/stream/Colosal/index.m3u8
+#EXTINF:-1 tvg-logo="",Extra TV
+https://edge1.spinoff.link/stream/ExtraTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Multimedios CR
+https://edge1.spinoff.link/stream/MultimediosCR/index.m3u8
+#EXTINF:-1 tvg-logo="",Repretel
+https://edge1.spinoff.link/stream/Repretel/index.m3u8
+#EXTINF:-1 tvg-logo="",Teletica
+https://edge1.spinoff.link/stream/Teletica/index.m3u8
+#EXTINF:-1 tvg-logo="",Canela TV
+https://edge1.spinoff.link/stream/CanelaTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Ecuador TV
+https://edge1.spinoff.link/stream/EcuadorTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Ecuavisa
+https://edge1.spinoff.link/stream/Ecuavisa/index.m3u8
+#EXTINF:-1 tvg-logo="",Gamavisión
+https://edge1.spinoff.link/stream/Gamavision/index.m3u8
+#EXTINF:-1 tvg-logo="",Teleamazonas
+https://edge1.spinoff.link/stream/Teleamazonas/index.m3u8
+#EXTINF:-1 tvg-logo="",Telerama
+https://edge1.spinoff.link/stream/Telerama/index.m3u8
+#EXTINF:-1 tvg-logo="",TV Canela
+https://edge1.spinoff.link/stream/TVCanela/index.m3u8
+#EXTINF:-1 tvg-logo="",UNIR TV
+https://edge1.spinoff.link/stream/UNIRTV/index.m3u8
+#EXTINF:-1 tvg-logo="",C9N
+https://edge1.spinoff.link/stream/C9N/index.m3u8
+#EXTINF:-1 tvg-logo="",Canal 13
+https://edge1.spinoff.link/stream/Canal13PY/index.m3u8
+#EXTINF:-1 tvg-logo="",Canal 4
+https://edge1.spinoff.link/stream/Canal4PY/index.m3u8
+#EXTINF:-1 tvg-logo="",Paravisión
+https://edge1.spinoff.link/stream/Paravision/index.m3u8
+#EXTINF:-1 tvg-logo="",SNT
+https://edge1.spinoff.link/stream/SNT/index.m3u8
+#EXTINF:-1 tvg-logo="",Telefuturo
+https://edge1.spinoff.link/stream/Telefuturo/index.m3u8
+#EXTINF:-1 tvg-logo="",TV Pública PY
+https://edge1.spinoff.link/stream/TVPublicaPY/index.m3u8
+#EXTINF:-1 tvg-logo="",Unicanal
+https://edge1.spinoff.link/stream/Unicanal/index.m3u8
+#EXTINF:-1 tvg-logo="",Antena 7
+https://edge1.spinoff.link/stream/Antena7/index.m3u8
+#EXTINF:-1 tvg-logo="",CDN
+https://edge1.spinoff.link/stream/CDN/index.m3u8
+#EXTINF:-1 tvg-logo="",CDN Deportes
+https://edge1.spinoff.link/stream/CDNDeportes/index.m3u8
+#EXTINF:-1 tvg-logo="",Color Visión
+https://edge1.spinoff.link/stream/ColorVision/index.m3u8
+#EXTINF:-1 tvg-logo="",Coral TV
+https://edge1.spinoff.link/stream/CoralTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Digital 15
+https://edge1.spinoff.link/stream/Digital15/index.m3u8
+#EXTINF:-1 tvg-logo="",Microvision
+https://edge1.spinoff.link/stream/Microvision/index.m3u8
+#EXTINF:-1 tvg-logo="",RTVD
+https://edge1.spinoff.link/stream/RTVD/index.m3u8
+#EXTINF:-1 tvg-logo="",Super Canal
+https://edge1.spinoff.link/stream/SuperCanal/index.m3u8
+#EXTINF:-1 tvg-logo="",Telemicro
+https://edge1.spinoff.link/stream/Telemicro/index.m3u8
+#EXTINF:-1 tvg-logo="",Telesistema
+https://edge1.spinoff.link/stream/Telesistema/index.m3u8
+#EXTINF:-1 tvg-logo="",Canal I
+https://edge1.spinoff.link/stream/CanalI/index.m3u8
+#EXTINF:-1 tvg-logo="",Globovisión
+https://edge1.spinoff.link/stream/Globovision/index.m3u8
+#EXTINF:-1 tvg-logo="",NTN24 VE
+https://edge1.spinoff.link/stream/NTN24VE/index.m3u8
+#EXTINF:-1 tvg-logo="",RCTV
+https://edge1.spinoff.link/stream/RCTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Televen
+https://edge1.spinoff.link/stream/Televen/index.m3u8
+#EXTINF:-1 tvg-logo="",TVes
+https://edge1.spinoff.link/stream/TVes/index.m3u8
+#EXTINF:-1 tvg-logo="",Vale TV
+https://edge1.spinoff.link/stream/ValeTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Venevisión
+https://edge1.spinoff.link/stream/Venevision/index.m3u8
+#EXTINF:-1 tvg-logo="",Venevisión Plus
+https://edge1.spinoff.link/stream/VenevisionPlus/index.m3u8
